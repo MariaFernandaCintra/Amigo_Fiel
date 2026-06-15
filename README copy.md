@@ -231,6 +231,9 @@ Foram realizados testes completos de manipulação dos dados utilizando operaç�
 
 Inserção de registros em todas as tabelas do sistema (clientes, endereços, pets, funcionários, serviços, atendimentos, produtos e fornecedores) via comandos `INSERT INTO` executados diretamente no SQL Editor do Supabase.
 
+![Inserção de dados ](./imgs/insercao_dados.png)
+
+
 ### READ – Consulta de Dados
 
 Consultas realizadas para verificar os dados cadastrados. A imagem abaixo apresenta um exemplo de consulta com `SELECT` e `INNER JOIN` entre as tabelas `cliente` e `pet`, retornando a listagem de pets por cliente com suas respectivas espécies.
